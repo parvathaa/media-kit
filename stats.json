@@ -1,0 +1,30 @@
+{
+  "followers": "26K",
+  "net_new_followers_60d": "+9,495",
+  "total_views_60d": "1,608,949",
+  "accounts_reached_60d": "685,851",
+  "reels_views_60d": "1.2M",
+  "reach_breakdown": "79.8% non-followers",
+  "audience": {
+    "gender": { "women": "13.3%", "men": "86.7%" },
+    "top_age_group": "25–34 (46.0%)",
+    "age_breakdown": {
+      "13-17": "0.6%",
+      "18-24": "32.7%",
+      "25-34": "46.0%",
+      "35-44": "15.4%",
+      "45-54": "3.6%",
+      "55-64": "0.9%",
+      "65+": "0.8%"
+    },
+    "top_countries": [
+      { "name": "India", "pct": "36.0%" },
+      { "name": "United States", "pct": "12.7%" },
+      { "name": "Pakistan", "pct": "3.2%" },
+      { "name": "United Kingdom", "pct": "3.1%" },
+      { "name": "Indonesia", "pct": "3.1%" }
+    ],
+    "most_active_days": "Thursday–Friday"
+  },
+  "last_updated": "June 2025"
+}
